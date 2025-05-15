@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karan Baid</h1>
-<h3 align="center">A passionate ML Developer and a GenAI enthusiast from India.🧠 I’m fascinated by the mathematical foundations of Machine Learning and the power of Generative AI. 📊 I explore, build, and contribute to projects that combine theory with real-world applications. 📚 Always learning. Always experimenting. 🔍 Interests: Generative AI, Applied Math, Deep Learning, and Optimization.</h3>
+<h3 align="center">A passionate ML Developer and a GenAI enthusiast from India.<br>
+  🧠 I’m fascinated by the mathematical foundations of Machine Learning and the power of Generative AI.<br> 
+  📊 I explore, build, and contribute to projects that combine theory with real-world applications. <br>
+  📚 Always learning. Always experimenting. <br>
+  🔍 Interests: Generative AI, Applied Math, Deep Learning, and Optimization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-baid&label=Profile%20views&color=0e75b6&style=flat" alt="karan-baid" /> </p>
 
