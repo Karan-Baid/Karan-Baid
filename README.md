@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Baid</h1>
-<h3 align="left">🚀 A passionate ML Developer and a GenAI enthusiast from India.<br>
+<h3 align="left">🚀 A passionate ML Developer and a GenAI enthusiast.<br>
   🧠 I’m fascinated by the mathematical foundations of Machine Learning and the power of Gen AI.<br> 
   📊 I explore, build, and contribute to projects that combine theory with real-world applications. <br>
   📚 Always learning. Always experimenting. <br>
